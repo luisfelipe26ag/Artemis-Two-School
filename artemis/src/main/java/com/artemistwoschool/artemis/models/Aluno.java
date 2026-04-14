@@ -1,4 +1,4 @@
-package main.java.com.artemistwoschool.artemis.models;
+package com.artemistwoschool.artemis.models;
 
 
 import jakarta.persistence.*;
